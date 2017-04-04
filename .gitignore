@@ -1,0 +1,6 @@
+# Phpstorm
+#
+.idea/
+node_modules/
+docs/
+dist/
